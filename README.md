@@ -1,5 +1,6 @@
 # Labor_association
 The dataset I will be using is AdultUCI data set included in the arules library. This dataset is originally called the Census Income set as the database looks at the demographic an income levels of individuals in 1994 and we will be using this dataset to try to predict if hours worked leads to higher or if not what factors do lead to a large income. Some of the links I used to help me with this dataset are:
+
 https://rdrr.io/cran/arules/man/Adult.html
 
 http://r-statistics.co/Association-Mining-With-R.html
